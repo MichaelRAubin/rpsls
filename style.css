@@ -1,0 +1,13 @@
+.game {
+  height: 100vh;
+}
+
+.img-sizing {
+  height: 180px;
+  object-fit: cover;
+}
+
+.btn-sizing {
+  height: 100px;
+  width: 100px;
+}
